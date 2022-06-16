@@ -9,6 +9,7 @@ ipykernel = "*"
 python-slugify = "*"
 wordcloud = "*"
 statsmodels = "*"
+sklearn = "*"
 
 [dev-packages]
 ipykernel = "*"
