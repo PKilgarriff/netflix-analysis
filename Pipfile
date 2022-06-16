@@ -10,6 +10,8 @@ python-slugify = "*"
 wordcloud = "*"
 statsmodels = "*"
 sklearn = "*"
+seaborn = "*"
+matplotlib-venn = "*"
 
 [dev-packages]
 ipykernel = "*"
