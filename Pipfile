@@ -12,6 +12,7 @@ statsmodels = "*"
 sklearn = "*"
 seaborn = "*"
 matplotlib-venn = "*"
+cinemagoer = "*"
 
 [dev-packages]
 ipykernel = "*"
